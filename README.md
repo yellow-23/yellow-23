@@ -13,32 +13,6 @@
 - UX-aware engineering decisions
 - Applied technology for real-world problems
 
----
-
-### 🛠️ Tech Stack
-**Mobile**
-- React Native (Expo)
-- TypeScript
-- Expo Router, Zustand
-- Maps, forms, device features
-
-**Frontend**
-- React
-- Component-based UI design
-- State management
-
-**Backend (supporting role)**
-- Node.js, Express
-- REST APIs
-- Basic authentication and integrations
-
-**Tools**
-- Git & GitHub
-- Docker (basic usage)
-- Linux / Windows
-
----
-
 ### 🚀 Projects
 - **Alartia**  
   Community safety mobile app  
