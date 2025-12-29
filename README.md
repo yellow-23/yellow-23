@@ -20,4 +20,4 @@
 - Clean, maintainable TypeScript  
 - Shipping real MVPs with users  
 
-📫 GitHub: https://github.com/yellow-23
+📫 Linkedin: www.linkedin.com/in/cristóbal-flores-villegas
