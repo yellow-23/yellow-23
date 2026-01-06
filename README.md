@@ -3,7 +3,7 @@
 🎓 Computer Engineering student (Chile)  
 📱 Mobile-focused developer (TypeScript)  
 🤝 Member of TAME  
-tame.cl
+https://tame.cl
 
 ---
 
