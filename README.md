@@ -1,8 +1,8 @@
 👋 Hi, I’m @yellow-23
 
-Computer Engineering student (Chile)  
-Mobile-focused developer (TypeScript)  
-Member of TAME  
+🎓 Computer Engineering student (Chile)  
+📱 Mobile-focused developer (TypeScript)  
+🤝 Member of TAME  
 https://tame.cl
 
 ---
