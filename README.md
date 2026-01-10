@@ -1,4 +1,4 @@
-👋 Hi, I’m @yellow-23
+👋 Hi, I’m Cristobal Flores
 
 🎓 Computer Engineering student (Chile)  
 📱 Mobile-focused developer (TypeScript)  
