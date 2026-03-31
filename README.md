@@ -1,31 +1,23 @@
-👋 Hola, soy Cristóbal Flores
+<h1 align="center">👋 Hola, soy Cristóbal Flores</h1>
 
+<p align="center">
+  🚀 <strong>Fullstack Developer</strong> · Cofundador de <a href="https://tame.cl">Tame SpA</a><br/>
+  🏆 Endowment UNAB 2025 · 📍 Santiago, Chile · 🎓 Ing. Civil Informática @ UNAB
+</p>
 
-  🚀 Fullstack Developer · Cofundador de Tame SpA
-  🏆 Ganador Endowment UNAB 2025  ·  📍 Santiago, Chile  ·  🎓 Ing. Civil Informática @ UNAB
-
-
-
-  
-    
-  
-  
-    
-  
-  
-    
-  
-
+<p align="center">
+  <a href="https://linkedin.com/in/cristóbal-flores-villegas"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:cristobal.floresv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://alartia.cl"><img src="https://img.shields.io/badge/Alartia-FF4B4B?style=flat&logo=googlemaps&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🛠 Stack
 
-
-  
-    
-  
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,py,postgres,react,ts,tailwind,gcp,firebase,nodejs,supabase,git&perline=6"/>
+</p>
 
 ---
 
@@ -42,16 +34,11 @@
 
 ## 📊 GitHub Stats
 
-
-  
-  
-
-
-
-  
-
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yellow-23&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellow-23&layout=compact&hide_border=true"/>
+</p>
 
 ---
 
-
-  Construyendo productos con impacto real desde Santiago, Chile 🇨🇱
+<p align="center"><em>Construyendo productos con impacto real desde Santiago, Chile 🇨🇱</em></p>
