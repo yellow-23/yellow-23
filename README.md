@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hola, soy Cristóbal Flores</h1>
 
 <p align="center">
-  🚀 <strong>Fullstack Developer</strong> · Cofundador de <a href="https://tame.cl">Tame SpA</a><br/>
-  🏆 Endowment UNAB 2025 · 📍 Santiago, Chile · 🎓 Ing. Civil Informática @ UNAB
+  🚀 <strong>Fullstack Developer</strong> · Cofundador de <a href="https://alartia.cl">Alartia</a><br/>
+  📍 Santiago, Chile · 🎓 Ing. Civil Informática @ UNAB
 </p>
 
 <p align="center">
