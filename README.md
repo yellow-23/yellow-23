@@ -35,8 +35,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yellow-23&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellow-23&layout=compact&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=yellow-23&theme=default&hide_border=true"/>
 </p>
 
 ---
