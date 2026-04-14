@@ -28,7 +28,6 @@
 | 🚨 [Alartia](https://alartia.cl) | Plataforma SaaS de seguridad ciudadana · 5 repos en producción | FastAPI · React Native · PostGIS |
 | 💸 Divide | App fintech para gastos compartidos | React Native · FastAPI · PostgreSQL |
 | 👟 [The Drop](https://github.com/yellow-23/the-drop) | Marketplace de sneakers | React · Supabase |
-| 📓 [Journal](https://github.com/yellow-23/Journal) | App de notas con auth y sync en tiempo real | React · Supabase |
 
 ---
 
