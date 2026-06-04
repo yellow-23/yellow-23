@@ -19,18 +19,6 @@
   <img src="https://skillicons.dev/icons?i=fastapi,py,postgres,react,ts,tailwind,gcp,firebase,nodejs,supabase,git&perline=6"/>
 </p>
 
----
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| 🚨 [Alartia](https://alartia.cl) | Plataforma SaaS de seguridad ciudadana · 5 repos en producción | FastAPI · React Native · PostGIS |
-| 💸 Divide | App fintech para gastos compartidos | React Native · FastAPI · PostgreSQL |
-| 👟 [The Drop](https://github.com/yellow-23/the-drop) | Marketplace de sneakers | React · Supabase |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
